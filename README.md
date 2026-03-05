@@ -2,8 +2,7 @@
 
 A 2D tactical sniper simulation built in Python using the Processing framework. This project emphasizes precision gameplay by requiring the player to calculate dynamic wind and distance trajectories to successfully eliminate moving V.I.P. targets while avoiding civilian casualties.
 
-![Gameplay Demo](![contract-sniper-demo](https://github.com/user-attachments/assets/cfd22ef5-aaad-4f49-8005-e5cea45175eb)
-) 
+![Gameplay Demo](https://github.com/user-attachments/assets/97191ad2-436a-4239-9690-540f0b85d20e)
 
 ## ⚙️ Key Technical Features
 * **Dynamic Physics Calculations:** Implemented real-time bullet trajectory offsets using randomized wind speed and distance variables.
